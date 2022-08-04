@@ -11,7 +11,7 @@ import SwiftUI
 struct CustomShapesArcsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomCurvesView()
         }
     }
 }

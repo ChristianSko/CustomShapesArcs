@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7E76F1F6289B9E9C0021ED6E /* CustomShapesArcsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E76F1F5289B9E9C0021ED6E /* CustomShapesArcsApp.swift */; };
-		7E76F1F8289B9E9C0021ED6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E76F1F7289B9E9C0021ED6E /* ContentView.swift */; };
+		7E76F1F8289B9E9C0021ED6E /* CustomCurvesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E76F1F7289B9E9C0021ED6E /* CustomCurvesView.swift */; };
 		7E76F1FA289B9E9D0021ED6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E76F1F9289B9E9D0021ED6E /* Assets.xcassets */; };
 		7E76F1FD289B9E9D0021ED6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E76F1FC289B9E9D0021ED6E /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		7E76F1F2289B9E9C0021ED6E /* CustomShapesArcs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomShapesArcs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E76F1F5289B9E9C0021ED6E /* CustomShapesArcsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesArcsApp.swift; sourceTree = "<group>"; };
-		7E76F1F7289B9E9C0021ED6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7E76F1F7289B9E9C0021ED6E /* CustomCurvesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurvesView.swift; sourceTree = "<group>"; };
 		7E76F1F9289B9E9D0021ED6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E76F1FC289B9E9D0021ED6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				7E76F1F5289B9E9C0021ED6E /* CustomShapesArcsApp.swift */,
-				7E76F1F7289B9E9C0021ED6E /* ContentView.swift */,
+				7E76F1F7289B9E9C0021ED6E /* CustomCurvesView.swift */,
 				7E76F1F9289B9E9D0021ED6E /* Assets.xcassets */,
 				7E76F1FB289B9E9D0021ED6E /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E76F1F8289B9E9C0021ED6E /* ContentView.swift in Sources */,
+				7E76F1F8289B9E9C0021ED6E /* CustomCurvesView.swift in Sources */,
 				7E76F1F6289B9E9C0021ED6E /* CustomShapesArcsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
